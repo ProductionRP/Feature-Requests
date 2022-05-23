@@ -1,3 +1,4 @@
+# ↓↓↓↓↓↓↓↓ READ BELOW TO GET STARTED ↓↓↓↓↓↓↓↓
 <img src="https://www.productionrp.net/assets/img/Logo_Mini.png" width="125">
 
 # Production RP Feature Suggestions
