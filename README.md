@@ -3,11 +3,11 @@
 
 # Production RP Feature Suggestions
 
-Got an idea that you think we should hear? Create a Feature Suggestion!
+Got an idea that you think we should hear? Create a Feature Request!
 
 You can use the instructions listed below to get started.
 
-## How do I create a feature suggestion?
+## How do I create a new feature request?
 
 **1.** Just below the page header, you'll see a tab labelled "*Issues*". Click on this tab.
 
@@ -20,3 +20,7 @@ You can use the instructions listed below to get started.
 **3.** Locate the row titled "*Feature Request*", and click on the "*Get Started*" button.
 
 <img src="https://i.imgur.com/J63QTRf.png">
+
+## When will my feature request be reviewed?
+
+Although the development team try their best to answer each and every request in a timely manner, we don't provide an implementation timeline for new feature requests at this time.
