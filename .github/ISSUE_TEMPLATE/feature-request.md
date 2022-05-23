@@ -7,13 +7,13 @@ assignees: ''
 
 ---
 
-**Provide an overview for your suggestion:**
+**Provide an overview for your feature request:**
 
 Use this space to provide us with an overview of how your suggestion could work.
 
-**Describe how your suggestion would work:**
+**Describe how your feature request would work:**
 
-Use as much detail as possible to describe your suggestion's inner workings. If this area is lacking when reviewed, the development team may ask you to clarify your original request.
+Use as much detail as possible to describe your request's inner workings. If this area is lacking when reviewed, the development team may ask you to clarify your original request.
 
 **How does this feature request benefit you in particular?**
 
