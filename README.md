@@ -21,7 +21,7 @@ You can use the instructions listed below to get started.
 
 <img src="https://i.imgur.com/J63QTRf.png">
 
-**4.** You'll then be presented with the GitHub Markdown Editor with the template for your request already provided, along with a description for each heading.
+**4.** You'll then be presented with the [GitHub Markdown Editor](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) with the template for your request already provided, along with a description for each heading.
 *Please complete this template to the best of your ability - **failure to do so may result in your request being automatically rejected.***
 
 ## When will my feature request be reviewed?
