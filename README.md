@@ -23,4 +23,4 @@ You can use the instructions listed below to get started.
 
 ## When will my feature request be reviewed?
 
-Although the development team try their best to answer each and every request in a timely manner, we don't provide an implementation timeline for new feature requests at this time.
+Although the development team try their best to answer each and every request in a timely manner, we don't provide an implementation timeline for new feature requests at present.
